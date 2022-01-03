@@ -12,3 +12,10 @@
 .mention {
     color: #0000ff;
 }
+.link {
+    color: #0000ff;
+    text-decoration: underline;
+}
+canvas {
+    border: 1px solid #000000;
+}
